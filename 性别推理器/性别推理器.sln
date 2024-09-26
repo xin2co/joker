@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "性别推理器", "性别推理器\性别推理器.csproj", "{F9460CF0-0470-4FF8-822E-22F2ADA37DAC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "多功能性别推理器", "多功能性别推理器\多功能性别推理器.vdproj", "{9428A9F6-250B-4979-A0F3-8B25039D6E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9460CF0-0470-4FF8-822E-22F2ADA37DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9460CF0-0470-4FF8-822E-22F2ADA37DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9460CF0-0470-4FF8-822E-22F2ADA37DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9460CF0-0470-4FF8-822E-22F2ADA37DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9428A9F6-250B-4979-A0F3-8B25039D6E3D}.Debug|Any CPU.ActiveCfg = Debug
+		{9428A9F6-250B-4979-A0F3-8B25039D6E3D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92702818-5E93-48B0-9539-E0D2B418F64F}
+	EndGlobalSection
+EndGlobal

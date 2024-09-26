@@ -1,0 +1,17 @@
+E:\C#项目\性别推理器\性别推理器\bin\Debug\net8.0-windows\性别推理器.exe
+E:\C#项目\性别推理器\性别推理器\bin\Debug\net8.0-windows\性别推理器.deps.json
+E:\C#项目\性别推理器\性别推理器\bin\Debug\net8.0-windows\性别推理器.runtimeconfig.json
+E:\C#项目\性别推理器\性别推理器\bin\Debug\net8.0-windows\性别推理器.dll
+E:\C#项目\性别推理器\性别推理器\bin\Debug\net8.0-windows\性别推理器.pdb
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.Form1.resources
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.csproj.GenerateResource.cache
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.AssemblyInfoInputs.cache
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.AssemblyInfo.cs
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.csproj.CoreCompileInputs.cache
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.dll
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\refint\性别推理器.dll
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.pdb
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.genruntimeconfig.cache
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\ref\性别推理器.dll
+E:\C#项目\性别推理器\性别推理器\obj\Debug\net8.0-windows\性别推理器.Properties.Resources.resources
